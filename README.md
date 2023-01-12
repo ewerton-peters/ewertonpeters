@@ -1,10 +1,5 @@
 # 👋 Ewerton aqui!
 
-<div>
-  <a href="https://github.com/ewertonPeters/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewertonPeters&include_all_commits=true&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonPeters&langs_count=10&layout=compact&theme=dark">
-</div>
 <!--
 **ewertonPeters/ewertonpeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
